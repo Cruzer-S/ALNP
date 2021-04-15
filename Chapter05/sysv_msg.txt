@@ -1,0 +1,8 @@
+3,University of Alberta					3915
+1,Simon Fraser University				5984
+2,University of Victoria				4870
+1,University of Manitoba				4925
+3,University of Calgary					3580
+2,Dalhousie University					6804
+3,Arizona State University Main			6453
+1,Massachusetts Institute of Technology	8710
