@@ -38,8 +38,9 @@ int main(int argc, char *argv[])
 		pr_crt("[Client] Fail: socket()");
 
 	(void) connect(fd, ai_ret->ai_addr, ai_ret->ai_addrlen);
-	if (errno != EINPROGRESS)
-		pr_crt("[Client] Fail: connect()");
+	
+	// if (errno != EINPROGRESS)
+	//	pr_crt("[Client] Fail: connect()");
 
 	fd_set fdset_w;
 	FD_ZERO(&fdset_w);
