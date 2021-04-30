@@ -1,4 +1,0 @@
-kernel.msg_next_id = -1
-kernel.msgmax = 8192
-kernel.msgmnb = 16384
-kernel.msgmni = 32000
